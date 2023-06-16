@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="windows-1251"?>
 <info>
-	<film>Bicentennial Man</film>
-	<serial>Stargate SG-1</serial>
-	<food>Khachapuri</food>
-	<season>Summer</season>
-	<side of the world>East Asia</side of the world>
+	<full name>Vysotskiy Sergey Sergeevich</full name>
+	<age>32</age>
+	<count home pets>1</count home pets>
+	<salary>60000</salary>
 </info>
