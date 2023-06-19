@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<root>
+  <id>PR1-B1</id>
+  <Summary>Кнопка “Оформить заказ” не реагирует на клик на странице оформления заказа.</Summary>
+  <Project>Web site shop.com</Project>
+  <Version>1.1</Version>
+  <Severity>Blocker</Severity>
+  <Priority>ASAP</Priority>
+  <Status>Open</Status>
+  <Author>Vysotskiy S</Author>
+  <Assigned To>Ivanov I</Assigned To>
+  <Description>
+    <Precondition>
+      <1>Зарегистрироваться на сайте shop.com</1>
+      <2>Авторизоваться на сайте</2>
+    <Precondition>
+    <Environment>MacOS BigSur v:11.2.3. Google Chrome v: 94.0.4606.71 (x86_64)</Environment>
+    <Steps_to_reproduce>
+      <1>Добавить товар в корзину</1>
+      <2>Зайти в корзину</2>
+      <3>Нажать на кнопку оформить заказ</3>
+    </Steps_to_reproduce>
+    <Actual_result>Кнопка “Оформить заказ” не реагирует на клик.</Actual_result>
+    <Expected result>Пользователь перенаправляется на страницу оплаты (Биллинг)</Expected result>
+  </Description>
+  <Attachment>https://drive.google.com/...</Attachment>
+</root>
