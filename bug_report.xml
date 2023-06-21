@@ -13,7 +13,7 @@
     <Precondition>
       <1>Зарегистрироваться на сайте shop.com</1>
       <2>Авторизоваться на сайте</2>
-    <Precondition>
+    </Precondition>
     <Environment>MacOS BigSur v:11.2.3. Google Chrome v: 94.0.4606.71 (x86_64)</Environment>
     <Steps_to_reproduce>
       <1>Добавить товар в корзину</1>
